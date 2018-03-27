@@ -1,0 +1,6 @@
+{
+  "name": "Rigs",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Rigs.js"
+}
